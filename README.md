@@ -7,7 +7,7 @@ above 70% of the nation’s wealth**, whereas the bottom half owns 1.5% of the t
 * While much work has been done on the descriptive measurement of inequality and also its consequences, **little research has modeled indicators of economic inequality using time series analyses**. Only recently, research has began to study the **effects of macroeconomic variables** on the trajectories of wealth and income inequality (e.g., Berisha & Meszaros, 2020). 
 
 ## Objective
-*  **dynamics of wealth and income inequality in the U.S.** based on a new dataset by Kuhn et al. (2020) on U.S. households in the postwar period.
+* Assess the reciprocal **dynamics of wealth and income inequality in the U.S.** based on a new dataset by Kuhn et al. (2020) on U.S. households in the postwar period.
 * Study the **effects of interest rates and GDP** on both inequality indicators to partially explain the trajectories.
 
 ## Approach
