@@ -11,9 +11,9 @@ above 70% of the nation’s wealth**, whereas the bottom half owns 1.5% of the t
 * Study the **effects of interest rates and GDP** on both inequality indicators to partially explain the trajectories.
 
 ## Approach
-* Use a **Vector Autoregressive Model (VAR)** to model the reciprocal relationships between the inequality measures.
-* Use a **VARX** model that allows the use of exogenous variables. 
-* Follow a **five-step process**:
+* Derive hypotheses from economic theory and perform inference tests (coefficient t-tests and Granger causality) to test hypotheses.
+* Use a **Vector Autoregressive Model (VAR)** to model the reciprocal relationships between the inequality measures and a **VARX** model that allows the use of exogenous variables. 
+* Follow a **five-step process** to derive results:
 
 ![Time Series Process](time_series_approach.png)
 
