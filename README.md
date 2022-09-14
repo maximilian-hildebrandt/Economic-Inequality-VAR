@@ -2,8 +2,7 @@
 GitHub Repo for semester project at HU Berlin using a VAR model to explain wealth and income inequality developments in the U.S.
 
 ## Background
-* **Economic inequality is high in the United States**, both when assessing income and wealth inequality. The **top 10% receives 45.5% of the total income** (Chancel et
-al., 2022). In contrast, the bottom 50% earns just 13.3%. The economic divide is even more apparent when examining wealth inequality, where the **top 10% owns
+* **Economic inequality is high in the United States**, both when assessing income and wealth inequality. The **top 10% receives 45.5% of the total income** (Chancel et al., 2022). In contrast, the bottom 50% earns just 13.3%. The economic divide is even more apparent when examining wealth inequality, where the **top 10% owns
 above 70% of the nation’s wealth**, whereas the bottom half owns 1.5% of the total wealth.
 * While much work has been done on the descriptive measurement of inequality and also its consequences, **little research has modeled indicators of economic inequality using time series analyses**. Only recently, research has began to study the **effects of macroeconomic variables** on the trajectories of wealth and income inequality (e.g., Berisha & Meszaros, 2020). 
 
