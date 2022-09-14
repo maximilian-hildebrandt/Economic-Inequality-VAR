@@ -27,5 +27,6 @@ above 70% of the nation’s wealth**, whereas the bottom half owns 1.5% of the t
 
 ## Installation Instructions
 * Install **R (4.2.1) and RStudio**
+* Download the SCF+ data from Kuhn et al. (2017) from the Google Drive: https://drive.google.com/drive/folders/1fDQmMi-66BoRTC8Ob9RjARZuvg1Yr2md?usp=sharing
 * Change the **data loading path** to your local working directory
 * Run the script and read the accompagnying written report
