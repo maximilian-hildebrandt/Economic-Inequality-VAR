@@ -15,7 +15,7 @@ above 70% of the nation’s wealth**, whereas the bottom half owns 1.5% of the t
 * Use a **Vector Autoregressive Model (VAR)** to model the reciprocal relationships between the inequality measures.
 * Use a **VARX** model that allows the use of exogenous variables. 
 * Follow a **five-step process**:
-![Time Series Process](time_series_process.png)
+![Time Series Process](time_series_approach.png)
 
 ## Key Results
 * A **VAR(6) and VARX(3,3)-model** showed the best model fit according to AIC and SC criteria. The resulting models are presented below:
