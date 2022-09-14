@@ -20,7 +20,7 @@ above 70% of the nation’s wealth**, whereas the bottom half owns 1.5% of the t
 ## Key Results
 * A **VAR(6)**-model showed the best model fit according to AIC and SC criteria. The resulting models are presented below:
 ![VAR model equation](var_model.png)
-* Also, a **VARX(3,3)-model** was used including interest rates and GDP as exogenous variables:
+* Also, a **VARX(3,3)-model** was used including interest rates (endogenous) and GDP (exogenous) based on a Granger causality test:
 ![VARX model equation](varx_model.png)
 * Surprisingly, wealth inequality **did not granger cause** income inequality nor vice versa. **GDP reduced the residual error covariance matrix** compared to a pure VAR model and **interest rates showed a reciprocal relationship with income inequality** and an effect on wealth inequality in some lags.
 
