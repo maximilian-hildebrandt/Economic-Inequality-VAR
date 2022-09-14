@@ -14,13 +14,13 @@ above 70% of the nation’s wealth**, whereas the bottom half owns 1.5% of the t
 * Use a **Vector Autoregressive Model (VAR)** to model the reciprocal relationships between the inequality measures and a **VARX** model that allows the use of exogenous variables. 
 * Follow a **five-step process** to derive results, which focuses on explaining relationships between variables and testing hypotheses (not prediction performance):
 
-![Time Series Process](time_series_approach.png)
+![Time Series Process](03_Images/time_series_approach.png)
 
 ## Key Results
 * A **VAR(6)**-model showed the best model fit according to AIC and SC criteria. The resulting models are presented below:
-![VAR model equation](var_model.png)
+![VAR model equation](03_Images/var_model.png)
 * Also, a **VARX(3,3)-model** was used including interest rates (endogenous) and GDP (exogenous) based on a Granger causality test:
-![VARX model equation](varx_model.png)
+![VARX model equation](03_Images/varx_model.png)
 * Surprisingly, wealth inequality **did not granger cause** income inequality nor vice versa. **GDP reduced the residual error covariance matrix** compared to a pure VAR model and **interest rates showed a reciprocal relationship with income inequality** and an effect on wealth inequality in some lags.
 
 ## Installation Instructions
